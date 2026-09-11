@@ -1,0 +1,12 @@
+site_name: F1 Dashboard
+site_description: Dashboard OpenF1 de voltas mais rapidas
+theme:
+  name: material
+  palette:
+    primary: red
+
+nav:
+  - Inicio: index.md
+  - Instalacao: instalacao.md
+  - Arquitetura: arquitetura.md
+  - Uso: uso.md
